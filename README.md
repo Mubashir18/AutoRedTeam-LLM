@@ -19,6 +19,6 @@ This repository is published strictly for educational, academic, and defensive s
 
 ### 2. Setup Environment
 ```bash
-git clone [https://github.com/your-username/AutoRedTeam-LLM.git](https://github.com/your-username/AutoRedTeam-LLM.git)
+git clone [https://github.com/Mubashir18/AutoRedTeam-LLM.git](https://github.com/Mubashir18/AutoRedTeam-LLM.git)
 cd AutoRedTeam-LLM
 pip install -r requirements.txt
